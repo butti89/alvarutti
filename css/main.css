@@ -76,12 +76,12 @@
 
 @font-face {
     font-family: 'Futura';
-    src: url('/../fonts/fontawesome-6/webfonts/Futura.ttc');
+    src: url('../fonts/fontawesome-6/webfonts/Futura.ttc');
 }
 
 @font-face {
     font-family: 'Bourbon';
-    src: url('/../fonts/fontawesome-6/webfonts/bourbon-st-regular-1.woff2');
+    src: url('../fonts/fontawesome-6/webfonts/bourbon-st-regular-1.woff2');
 }
 
 *,
