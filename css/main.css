@@ -14816,6 +14816,7 @@ img {
 .timeline-body {
     font-family: futura-pt, fallbackFont, sans-serif;
     color: #353A33;
+    font-size: 18px;
 }
 
 .rsvp-button{
@@ -14922,7 +14923,7 @@ img {
 .timeline .date {
     display: block;
     margin-bottom: 20px;
-    font-size: 13px;
+    font-size: 15px;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: futura-pt, fallbackFont, sans-serif;
